@@ -28,6 +28,10 @@
   .borderCircle {
     border-radius: 9999px;
   }
+
+  .backGround {
+    background-image: -moz-element();
+  }
   
   .colorInherit {
     color: inherit;
